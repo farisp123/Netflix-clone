@@ -6,7 +6,7 @@ const Footer = () => {
     <footer className="footer">
       <div className="footer-container">
         <a href="https://www.linkedin.com/in/muhammed-faris-pallipath-753259242/?originalSubdomain=in" className="footer-link">
-        <h3>Developed by Trendstube.in</h3>
+        <h3>Developed by Muhammed Faris</h3>
         </a>
       </div>
     </footer>
