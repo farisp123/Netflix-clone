@@ -1,0 +1,24 @@
+.footer {
+    background-color: #070707;
+    padding: 20px;
+  }
+  
+  .footer-container {
+    display: flex;
+    align-items: center;
+    justify-content: center; /* Modified to center the content */
+    flex-direction: column; /* Added to stack the title and link vertically */
+  }
+  
+  .footer-title {
+    font-size: 18px;
+    margin: 0;
+  }
+  
+  .footer-link {
+    color: rgb(252, 248, 248);
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 10px; /* Added to create some space between the title and link */
+  }
+  
